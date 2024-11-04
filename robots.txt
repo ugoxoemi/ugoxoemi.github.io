@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugoxoemi.github.io/PRb/sitemap_index.txt
+Sitemap: https://ugoxoemi.github.io/QZs/sitemap_index.txt
+Sitemap: https://ugoxoemi.github.io/Ths/sitemap_index.txt
+Sitemap: https://ugoxoemi.github.io/xUg/sitemap_index.txt
